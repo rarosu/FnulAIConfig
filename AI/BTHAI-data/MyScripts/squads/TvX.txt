@@ -6,9 +6,21 @@ Priority=9
 ActivePriority=10
 OffenseType=Required
 <setup>
-Unit=Terran_Marine:20
-Unit=Terran_Medic:10
+Unit=Terran_Marine:7
+Unit=Terran_Firebat:8
+Unit=Terran_Medic:6
+Unit=Terran_Wraith:8
+<end>
+
+<start>
+Type=Offensive
+Name=AerialOffense
+Priority=10
+ActivePriority=10
+OffenseType=Optional
+<setup>
 Unit=Terran_Wraith:10
+Unit=Terran_Battlecruiser:2
 <end>
 
 <start>
@@ -16,12 +28,25 @@ Type=Defensive
 Move=Ground
 Name=MainDefenseSquad
 Priority=5
-ActivePriority=6
+ActivePriority=10
 OffenseType=Optional
 <setup>
-Unit=Terran_Marine:15
-Unit=Terran_Medic:8
-Unit=Terran_Goliath:10
+Unit=Terran_Marine:10
+Unit=Terran_Medic:4
+Unit=Terran_Goliath:5
+<end>
+
+
+
+<start>
+Type=Defensive
+Move=Ground
+Name=SupplDefSquad
+Priority=10
+ActivePriority=10
+OffenseType=Optional
+<setup>
+Unit=Terran_Siege_Tank_Tank_Mode:8
 <end>
 
 <start>
@@ -29,9 +54,10 @@ Type=Exploration
 Move=Ground
 Name=ExplorationSquad
 Priority=7
-ActivePriority=8
+ActivePriority=10
 OffenseType=Required
 <setup>
-Unit=Terran_Vulture:10
+Unit=Terran_Vulture:5
+Unit=Terran_Wraith:5
 <end>
 

@@ -7,10 +7,8 @@ Terran_Bunker
 Terran_Bunker
 Terran_Factory
 Terran_Armory
+Terran_Science_Facility
 Terran_Starport
-Terran_Bunker
-Terran_Bunker
-Terran_Bunker
 Terran_Bunker
 Terran_Bunker
 Terran_Bunker
