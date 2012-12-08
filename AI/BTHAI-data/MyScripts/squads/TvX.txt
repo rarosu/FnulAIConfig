@@ -24,3 +24,14 @@ Unit=Terran_Medic:8
 Unit=Terran_Goliath:10
 <end>
 
+<start>
+Type=Exploration
+Move=Ground
+Name=ExplorationSquad
+Priority=7
+ActivePriority=8
+OffenseType=Required
+<setup>
+Unit=Terran_Vulture:10
+<end>
+
