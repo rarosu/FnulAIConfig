@@ -1,0 +1,1 @@
+git pull git@github.com:rarosu/FnulAIConfig.git $1

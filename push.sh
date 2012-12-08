@@ -1,0 +1,1 @@
+git push git@github.com:rarosu/FnulAIConfig.git $1
