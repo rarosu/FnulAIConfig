@@ -1,0 +1,6 @@
+logs/
+*.html
+*.dll
+*.exp
+*.lib
+*.pdb
