@@ -33,5 +33,6 @@ ActivePriority=8
 OffenseType=Required
 <setup>
 Unit=Terran_Vulture:10
+Unit=Terran_Wraith:5
 <end>
 
