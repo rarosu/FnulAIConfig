@@ -1,16 +1,7 @@
 Terran_Refinery
 Terran_Barracks
-Terran_Bunker
 Terran_Barracks
 Terran_Academy
-Terran_Bunker
-Terran_Bunker
 Terran_Factory
 Terran_Armory
 Terran_Starport
-Terran_Bunker
-Terran_Bunker
-Terran_Bunker
-Terran_Bunker
-Terran_Bunker
-Terran_Bunker
