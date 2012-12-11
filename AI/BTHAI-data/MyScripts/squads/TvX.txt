@@ -24,6 +24,7 @@ Unit=Terran_Marine:10
 Unit=Terran_Firebat:5
 Unit=Terran_Medic:8
 Unit=Terran_Goliath:10
+Unit=Terran_Wraith:5
 <end>
 
 <start>

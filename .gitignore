@@ -4,3 +4,5 @@ logs/
 *.exp
 *.lib
 *.pdb
+FnulAILog.txt
+FnulAIStatistics.txt
