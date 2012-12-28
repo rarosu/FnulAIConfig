@@ -1,2 +1,2 @@
-Spider_Mines:3
-Tank_Siege_Mode:1
+Spider_Mines:1
+Cloaking_Field:1
