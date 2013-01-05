@@ -32,7 +32,7 @@ ActivePriority=10
 OffenseType=Optional
 <setup>
 Unit=Terran_Marine:10
-<<<<<<< HEAD
+Unit=Terran_Firebat:10
 Unit=Terran_Medic:4
 Unit=Terran_Goliath:5
 <end>
@@ -48,31 +48,21 @@ ActivePriority=10
 OffenseType=Optional
 <setup>
 Unit=Terran_Siege_Tank_Tank_Mode:8
-=======
 Unit=Terran_Firebat:5
 Unit=Terran_Medic:8
 Unit=Terran_Goliath:10
 Unit=Terran_Wraith:5
->>>>>>> 2d3ebada0ba938f6d3fc36e3abdcb3d711f412bc
 <end>
 
 <start>
 Type=Exploration
 Move=Ground
 Name=ExplorationSquad
-<<<<<<< HEAD
 Priority=7
 ActivePriority=10
 OffenseType=Required
 <setup>
 Unit=Terran_Vulture:5
-=======
-Priority=5
-ActivePriority=10
-OffenseType=Required
-<setup>
-Unit=Terran_Vulture:10
->>>>>>> 2d3ebada0ba938f6d3fc36e3abdcb3d711f412bc
 Unit=Terran_Wraith:5
 <end>
 
