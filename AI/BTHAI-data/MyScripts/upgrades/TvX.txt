@@ -1,3 +1,16 @@
 Spider_Mines:1
 Cloaking_Field:1
 Stim_Packs:1
+Personnel_Cloaking:1
+Lockdown:2
+Tank_Siege_Mode:1
+Ocular_Implants:3
+U-238_Shells:2
+Terran_Infantry_Armor:2
+Terran_Infantry_Weapons:2
+Terran_Vehicle_Plating:2
+Terran_Ship_Plating:2
+Terran_Vehicle_Weapons:2
+Terran_Ship_Weapons:2
+Moebius_Reactor:3
+Apollo_Reactor:3
